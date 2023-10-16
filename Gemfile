@@ -21,3 +21,5 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
 gem "sorbet"
 gem "tapioca", '= 0.11.8', require: false
+
+gem "devise", "~> 4.9"
